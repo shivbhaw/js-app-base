@@ -1,3 +1,2 @@
 # js-app-base
-test
-
+Basic BoilerPlate, More to come
